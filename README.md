@@ -1,8 +1,11 @@
 # bidirectional_detection
 http://arduinotehniq.blogspot.com/ &amp; http://nicuflorica.blogspot.com/ &amp; https://www.arduinotehniq.com/
 
+
+articol in limba romana:
 https://nicuflorica.blogspot.com/2020/04/dtectie-bidirectionala-cu-senzori.html
 
+article in english language:
 https://arduinotehniq.blogspot.com/2020/04/bidirectional-detection-with-ultrasonic.html
 
 ![left](https://1.bp.blogspot.com/-aW4hsSZDOwg/XpoIV2hid9I/AAAAAAAAcB4/Kdvs59bjR7cRkGA3ZgUlMI7gufJIb9xEgCLcBGAsYHQ/s200/detectie-bidirectionala_1.jpg)
