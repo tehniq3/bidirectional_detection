@@ -14,6 +14,8 @@ https://arduinotehniq.blogspot.com/2020/04/bidirectional-detection-with-ultrason
 
 ![schematic](https://1.bp.blogspot.com/-FF6_4NJTHu0/XpoG78N6dLI/AAAAAAAAcBo/Vpz2dejRbngMuycjUkfPNAm2BdZc_gMRQCLcBGAsYHQ/s1600/schema.png)
 
+alt articol: https://nicuflorica.blogspot.com/2020/05/sistem-de-detectie-ultrasonica-si.html
+
 ![new1](https://1.bp.blogspot.com/-wQvodqcP450/XswUlxc6jkI/AAAAAAAAcnY/NOYvwwiZuzQSibIPNDgDD8JqwxIqQ52BQCLcBGAsYHQ/s200/montaj1.jpg)
 ![new2](https://1.bp.blogspot.com/-9bZ-tSmitGQ/XswXiqmerKI/AAAAAAAAcn0/w5et42LfiaY-fW9PS2WSDfrwR2heh3XgQCLcBGAsYHQ/s200/montaj4.jpg)
 ![new3](https://1.bp.blogspot.com/-L7UwbRIhtBE/XswXmFhiF9I/AAAAAAAAcn4/tV94HUE4i98EUPw0xWxs15j1dpFENES3ACLcBGAsYHQ/s200/montaj5.jpg)
